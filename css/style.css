@@ -42,7 +42,7 @@
 }
 
 
-.indevets {
+.page__indevets {
     margin-bottom: 44px;
 }
 
@@ -67,7 +67,7 @@
 }
 
 
-.step {
+.page__step {
     margin-bottom: 43px;
 }
 
@@ -83,7 +83,7 @@
 
 
 
-.next {
+.page__next {
     margin-bottom: 10px;
 }
 
@@ -106,7 +106,7 @@
 .next__image {}
 
 
-.result {}
+.page__result {}
 
 .result__topic {
     margin-bottom: 10px;
