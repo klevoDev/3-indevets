@@ -16,7 +16,7 @@
 
 
 .topic {
-    font-family: 'Nunito Sans';
+    font-family: 'Nunito Sans', sans-serif;
     font-weight: 700;
     font-size: 20px;
     line-height: 135%;
@@ -25,7 +25,7 @@
 }
 
 .subheading {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
     font-weight: 700;
     font-size: 40px;
     line-height: 117%;
@@ -34,7 +34,7 @@
 }
 
 .text {
-    font-family: 'Nunito Sans';
+    font-family: 'Nunito Sans', sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 181%;
@@ -46,9 +46,10 @@
     margin-bottom: 44px;
 }
 
+.indeverts {}
+
 .indevets__topic {
-    font-family: 'Nunito Sans';
-    font-style: normal;
+    font-family: 'Nunito Sans', sans-serif;
     font-weight: 700;
     font-size: 22px;
     line-height: 150%;
@@ -57,9 +58,7 @@
 }
 
 .indevets__heading {
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
     font-size: 55px;
     line-height: 116%;
     text-align: center;
@@ -87,6 +86,8 @@
     margin-bottom: 10px;
 }
 
+.next {}
+
 .next__topic {
     margin-bottom: 5px;
 }
@@ -107,6 +108,8 @@
 
 
 .page__result {}
+
+.result {}
 
 .result__topic {
     margin-bottom: 10px;
