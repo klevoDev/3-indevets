@@ -12,9 +12,6 @@
 }
 
 
-.page {}
-
-
 .topic {
     font-family: 'Nunito Sans', sans-serif;
     font-weight: 700;
@@ -42,9 +39,22 @@
 }
 
 
+.page {}
+
 .page__indevets {
     margin-bottom: 44px;
 }
+
+.page__step {
+    margin-bottom: 43px;
+}
+
+.page__next {
+    margin-bottom: 10px;
+}
+
+.page__result {}
+
 
 .indeverts {}
 
@@ -66,10 +76,6 @@
 }
 
 
-.page__step {
-    margin-bottom: 43px;
-}
-
 .step__topic {
     margin-bottom: 8px;
 }
@@ -80,11 +86,6 @@
 
 .step__text {}
 
-
-
-.page__next {
-    margin-bottom: 10px;
-}
 
 .next {}
 
@@ -106,8 +107,6 @@
 
 .next__image {}
 
-
-.page__result {}
 
 .result {}
 
